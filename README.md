@@ -30,11 +30,13 @@ This is a simple URL shortener tool written in Python. It allows you to shorten 
    ```bash
    cd CutDown
    ```
-   And:
+And:
+
    ```bash
    pip install -r requeriments.txt
    ```
 3. Run:
+
    ```bash
    python3 CutDown.py
    ```
