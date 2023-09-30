@@ -31,7 +31,7 @@ This is a simple URL shortener tool written in Python. It allows you to shorten 
    cd CutDown
    ```
 And:
-
+  
    ```bash
    pip install -r requeriments.txt
    ```
