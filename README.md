@@ -1,4 +1,4 @@
-# URL Shortener
+# CutDown - URL Shortener
 
 ## Overview
 
@@ -23,19 +23,30 @@ This is a simple URL shortener tool written in Python. It allows you to shorten 
 1. Clone this repository:
 
    ```bash
-   https://github.com/WelberthyGustavo/CutDown
+   git clone https://github.com/WelberthyGustavo/CutDown
    ```
 2. Install the required libraries:
 
-  ```bash
-  cd CutDown
-  ```
+   ```bash
+   cd CutDown
+   ```
 And:
-  ```bash
-  pip install -r requeriments.txt
-  ```
+   ```bash
+    pip install -r requeriments.txt
+   ```
 3. Run:
-  ```bash
-  python3 CutDown.py
-  ```
+   ```bash
+   python3 CutDown.py
+   ```
+## Example
 
+Select an option (e.g., 1 for Clck.ru).
+Enter the URL you want to shorten (e.g., http://www.example.com).
+The script will provide you with the shortened URL (e.g., http://clck.ru/shorturl).
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+Thanks to pyshorteners for providing the URL shortening functionality.
+Created by [Welberthy Gustavo]
